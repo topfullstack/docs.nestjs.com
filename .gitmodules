@@ -1,0 +1,3 @@
+[submodule "submodules/docs.nestjs.cn"]
+	path = submodules/docs.nestjs.cn
+	url = git@github.com:topfullstack/docs.nestjs.cn.git
